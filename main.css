@@ -107,7 +107,7 @@ body{
 @media (max-width:425px) {
 
     .lamp-light.open{
-        clip-path: polygon(34% 0,66% 0,140% 100%, -36% 100%);
+        clip-path: polygon(36% 0,64% 0,140% 100%, -36% 100%);
         background: url(./imagenes/fondo_pequeño.png);
         background-size: cover;
         background-repeat: no-repeat;
@@ -168,7 +168,7 @@ body{
 @media (min-width:425px) and (max-width:768px) {
 
     .lamp-light.open{
-        clip-path: polygon(36.5% 0,64% 0,164% 100%, -65% 100%);
+        clip-path: polygon(38.5% 0,62% 0,164% 100%, -65% 100%);
         background: url(./imagenes/fondo_pequeño.png);
         background-repeat: no-repeat;
         background-size: cover;
