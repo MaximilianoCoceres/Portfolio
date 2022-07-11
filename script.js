@@ -2,7 +2,6 @@ const botonLuz = document.querySelector('.lamp-bottom')
 const luzEncendida = document.querySelector('.lamp-light')
 const contenedor = document.querySelector('.contenedor')
 
-
 encenderLuz=()=>{
     luzEncendida.classList.toggle('open')
     if(botonLuz.contains.toggle('open')){
