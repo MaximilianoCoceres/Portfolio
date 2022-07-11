@@ -217,8 +217,8 @@ body{
 
     .personaje{
         position: relative;
-        top:22em;
-        left:-7em;
+        top:18em;
+        left:-8em;
     }
 
 
@@ -254,8 +254,8 @@ body{
     
     .personaje{
         position: relative;
-        top:20em;
-        left:-3em;
+        top:14em;
+        left:-4em;
     }
     .personaje img{
         width: 22em ;
