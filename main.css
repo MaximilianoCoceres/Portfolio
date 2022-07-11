@@ -144,7 +144,7 @@ body{
 
 .boton img:active{
     filter: invert(1);
-    
+
 }
 
 
@@ -160,7 +160,7 @@ body{
         background-size: cover;
         background-repeat: no-repeat;
         height: 85vh;
-        top: 111px;
+        top: 120px;
     }
 
     .lamp-top{
@@ -224,7 +224,7 @@ body{
 
     .portfolio{
         position: relative;
-        top:-9em;
+        top:-13em;
         left:6em;
         width: 12em;
         height: 6em;
@@ -248,7 +248,7 @@ body{
         background: url(./imagenes/fondo_pequeño.png);
         background-repeat: no-repeat;
         background-size: cover;
-        top: 111px;
+        top: 120px;
         height: 85vh;
     }
     
@@ -264,7 +264,7 @@ body{
 
     .portfolio{
         position: relative;
-        top:-9em;
+        top:-13em;
         left:7em;
         width: 12em;
         height: 7em;
